@@ -1,3 +1,1 @@
-<html>
 <button/>
-</html>
