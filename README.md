@@ -6,5 +6,7 @@
 
 
 ```
-dsa
+status = "totaly not cool"
+if (__user__ == "delltaxa"):
+  status = "cool"
 ```
