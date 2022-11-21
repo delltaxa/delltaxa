@@ -1,5 +1,7 @@
 
 ![delltaxa](https://user-images.githubusercontent.com/114283067/203141997-8abee3de-e764-46ca-919d-adaf6ddfaef0.png | width=100)
 
+<img src="https://user-images.githubusercontent.com/114283067/203141997-8abee3de-e764-46ca-919d-adaf6ddfaef0.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 
 [![delltaxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=delltaxa)](https://github.com/delltaxa/read-me)
