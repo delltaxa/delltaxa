@@ -10,5 +10,5 @@
 status = "totaly not cool"
 if (__user__ == "delltaxa"):
   status = "cool"
-print(status)
+print(f"{__user__} is {status}")
 ```
