@@ -13,6 +13,4 @@ status = "totaly not cool"
 if (__user__ == "delltaxa"):
   status = "cool"
 print(f"{__user__} is {status}")
-
-# who reads this is gay
 ```
