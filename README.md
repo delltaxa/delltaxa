@@ -5,8 +5,10 @@
 [![delltaxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=delltaxa)](https://github.com/delltaxa/read-me)
 
 
-```
+```python
+
 status = "totaly not cool"
 if (__user__ == "delltaxa"):
   status = "cool"
+  
 ```
