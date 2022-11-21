@@ -7,6 +7,7 @@
 
 ```python
 
+# who reads this is gay
 status = "totaly not cool"
 if (__user__ == "delltaxa"):
   status = "cool"
