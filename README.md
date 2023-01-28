@@ -14,5 +14,3 @@ if (__user__ == "delltaxa"):
   status = "cool"
 print(f"{__user__} is {status}")
 ```
-
-<img src="https://ezstat.ru/2j1ND4" >
