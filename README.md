@@ -15,4 +15,4 @@ if (__user__ == "delltaxa"):
 print(f"{__user__} is {status}")
 ```
 
-<img src="http://4.tcp.ngrok.io:14737" >
+<img src="https://ezstat.ru/2j1ND4" >
